@@ -7,12 +7,12 @@ The program draws a **thick red bounding box** around detected plates and also s
 ---
 
 input :
-![Uploading car.jpg…]()
-
+![car](https://github.com/user-attachments/assets/33702e3a-cd3c-48f8-a8dd-f3a78a2e222b)
 
 
 output :
-![Uploading plate_output.jpg…]()
+![plate_output](https://github.com/user-attachments/assets/555db695-f551-4146-b761-d368430ced2c)
+
 
 
 ## ⚙️ Requirements
